@@ -2,6 +2,7 @@
 langchain==0.3.13
 langchain-community==0.3.13
 langchain-openai==0.2.14
+langchain-core==0.3.28
 langgraph==0.2.60
 openai==1.59.5
 
@@ -20,3 +21,6 @@ duckduckgo-search==7.1.0
 pydantic==2.10.5
 pydantic-settings==2.7.1
 typing-extensions==4.12.2
+
+# Additional required packages
+annotated-types==0.7.0
